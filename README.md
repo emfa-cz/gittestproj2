@@ -1,2 +1,2 @@
-## 2nd git course
-# example md text
+# 2nd git course
+## example md text
